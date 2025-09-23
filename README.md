@@ -134,7 +134,7 @@ For a quick start, open the hosted prototype linked below.
 
 ### Demo Video
 
-![Project Demo Video](https://user-images.githubusercontent.com/yourusername/demo-video: *
+![Project Demo Video](https://g.co/gemini/share/60cac2df9017)*
 
 ***
 
